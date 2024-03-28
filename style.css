@@ -1,0 +1,99 @@
+
+.navbar {
+    background-color: #a65f65;
+}
+
+.nav .nav-link.active {
+    background-color:#D4C2AC;
+    color:#a65f65;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #D4C2AC;
+}
+
+.navbar-brand {
+    font-family: "Dancing Script", cursive;
+    font-size: 30px;
+}
+
+.navbar-toggler {
+    background-color: #D4C2AC;
+}
+
+.section-title {
+    font-family: "Dancing Script", cursive;
+}
+
+.section-title span {
+    color:#a65f65;
+}
+
+#quem-somos {
+    background-color: #dad0c3;
+}
+
+#cardapio {
+    background-color: #a65f65;
+}
+
+.section-title-menu {
+    font-family: "Dancing Script", cursive;
+    color:#141413
+}
+
+.text-colored-menu {
+    font-family: "Dancing Script", cursive;
+    color:#dad0c3;
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: #dad0c3;
+    color: #a65f65
+}
+
+.nav-cardapio .nav-link:hover {
+    color:#dad0c3
+}
+.nav-cardapio .nav-link.active:hover,
+.text-colored {
+    color: #a65f65;
+}
+
+.social-links li {
+    list-style: none;
+    display:inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+#fale-conosco button {
+    background-color: #a65f65;
+    color:#dad0c3
+}
+
+footer .container {
+    background-color: #dad0c3;
+    max-width: 100%;
+}
+
+@media (max-width:767px) {
+    .carousel-item img {
+        height: 200px;
+    }
+
+    .section-title-menu {
+        text-align: center;
+       
+    }
+}
+
+@media (min-width: 768px) {
+  
+
+
+}
