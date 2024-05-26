@@ -11,3 +11,6 @@ Este projeto contém:
 * Fomulário de contato;
 * Responsividade do site;
 
+Link para visualizar o projeto na Vercel: 
+
+https://exercicio-bootstrap-avancado-ebac.vercel.app/#eventos
